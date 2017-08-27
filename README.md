@@ -1,2 +1,21 @@
-# sparecoins-re-build
-Sparecoins needs fixing - rebuilding-due to errors in the code or maybe changes in BTc etc
+### SpareCoins
+
+This is the repo for the front end of the Chrome Extension.
+
+### Build Instructions
+
+**Update manifest version**
+
+**Zip the following files/directories**
+ - css/
+ - icons/
+ - js/
+ - lib/
+ - views/
+ - background.js
+ - beep.wav
+ - index.html
+ - manifest
+ - error.html
+ - errorListener.js
+ - error.js
